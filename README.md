@@ -1,6 +1,7 @@
 # Project Title: CultureLinkr Internship Application Form  
 
-[screenshot of the webpage]<img width="709" alt="Screenshot 2024-10-15 at 10 50 05 PM" src="https://github.com/user-attachments/assets/4c6a48b5-3493-41ce-a02b-a524f5a7fd92">
+## screenshot of the webpage  
+<img width="709" alt="Screenshot 2024-10-15 at 10 50 05 PM" src="https://github.com/user-attachments/assets/4c6a48b5-3493-41ce-a02b-a524f5a7fd92">
 
 
 ### Project link : [Click Here](https://culturelinkrwebpage.netlify.app/)  
